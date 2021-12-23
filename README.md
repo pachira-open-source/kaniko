@@ -1,1 +1,1 @@
-# kaniko-image-mirror
+# Docker Image Mirror for Kaniko
